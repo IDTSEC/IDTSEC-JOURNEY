@@ -27,4 +27,4 @@ Thanks for reading!
 
 📧 Email: [idtsec@outlook.com]  
 🌐 GitHub: [https://github.com/IDTSEC]  
-📎 LinkedIn: []
+📎 LinkedIn: [] 

@@ -8,7 +8,7 @@
 🌏 Languages: English & Romanian, starting 🇰🇷
 
 ## 🔧 Labs & Projects
-[Nmap scan analysis](nmap_scanme_analysis.md)
+- [x] [Nmap scan analysis](nmap_scanme_analysis.md)
 - [x] DVWA exploitation writeup – []
 - [] Snort IDS setup & log analysis – coming soon
 

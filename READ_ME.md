@@ -1,7 +1,7 @@
 # Hi, I'm Dani 👋
 
 🔐 Aspiring Cybersecurity Analyst  
-📍 Romania → aiming for SK 
+📍 Romania → aiming for SK     
 🎯 Currently studying: Google Cybersecurity Cert & CompTIA Security+  
 🧠 Learning: Kali Linux, Wireshark, Nmap  
 📚 Interests: Blue teaming, cyber defense, digital forensics  

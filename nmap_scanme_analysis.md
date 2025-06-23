@@ -9,7 +9,7 @@ I used Nmap to scan the domain 'scanme.nmap.org' -- a legal test host provided b
 - **Aggresive Scan (-A)** for deeper OS and service detection
 
 ## What did I learn?
-Nmap is a powerful tool for network reconnaisance (opens ports, identifies services and their versions, guesses the OS of a remote machine and much more)
+Nmap is a powerful tool for network reconnaisance (opens ports, identifies services and their versions, guesses the OS of a remote machine and much more)  
 However:
 - Nmap is to be used responsibly
 - the output can be detailed and requires interpretation (some of which I'm still learning to fully understand)

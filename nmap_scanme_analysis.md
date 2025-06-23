@@ -18,7 +18,7 @@ However:
 Some of the results included:
 - Detected OS: **Linux 5.0-5.14**, possibly **MicroTik RouterOS 7.2-7.5**
 - Open ports like **22/tcp**(SSH), **80/tcp** (HTTP)
-(since I'm stil learning, I'm continuing to research how each port could be relevant from a blue-team perspective)
+(since I'm still learning, I'm continuing to research how each port could be relevant from a blue-team perspective)
 
 ##end notes
 My first scan with Nmap - I plan to repeat this and write more advanced summaries as I grow.

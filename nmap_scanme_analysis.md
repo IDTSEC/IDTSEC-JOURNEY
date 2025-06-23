@@ -20,5 +20,5 @@ Some of the results included:
 - Open ports like **22/tcp**(SSH), **80/tcp** (HTTP)
 (since I'm still learning, I'm continuing to research how each port could be relevant from a blue-team perspective)
 
-##end notes
+## Final notes  
 My first scan with Nmap - I plan to repeat this and write more advanced summaries as I grow.

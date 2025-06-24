@@ -18,5 +18,5 @@
 - the app returned user data without authentication
 - SQL query was bypassed using the payload
 
-## final notes  
-A classic authentication bypass using SQL injection - in a rea lworld scenario, this could lead to full account takeover/data leakage
+## Final notes  
+A classic authentication bypass using SQL injection - in a real world scenario, this could lead to full account takeover/data leakage

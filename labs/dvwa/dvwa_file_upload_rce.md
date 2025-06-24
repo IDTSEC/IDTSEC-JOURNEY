@@ -1,6 +1,6 @@
 # DVWA - File Upload RCE (Low)
 
-**Target:** File Upload Page
+**Target:** File Upload Page  
 **Sec Level:** Low
 
 **Payload:** text.php

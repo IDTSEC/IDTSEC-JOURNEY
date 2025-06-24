@@ -18,5 +18,11 @@
 - the app returned user data without authentication
 - SQL query was bypassed using the payload
 
+## Defence  
+Safe coding practices needed - devs should use:  
+- prepared statements/parameterized queries (keeping data & SQL commands separate - even if the input is malicious, it won't change the meaning of the query, basically being treated just as text)
+- input validation & sanitization: checking that the user input is what we expect (letters/numbers for username), and cleaning it to remove dangerous characters
+- spotting input such as **1' OR '1'='1** is a RED flag  
+
 ## Final notes  
 A classic authentication bypass using SQL injection - in a real world scenario, this could lead to full account takeover/data leakage
